@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
     s.summary          = 'UMSPosPayOnly SDK'
     s.description      = 'A unoffical UMSPosPayOnly SDK pod'
     s.homepage         = 'https://github.com/letspod/UMSPosPayOnly'
-    s.license          = { :type => 'MIT', :file => 'LICENSE' }
+    s.license          = { :type => 'MIT' }
     s.author           = { 'TBXark' => 'tbxark@outlook.com' }
     s.source           = { :git => 'https://github.com/letspod/UMSPosPayOnly.git', :tag => s.version.to_s }
   
