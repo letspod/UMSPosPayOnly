@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'UMSPosPayOnly'
-    s.version          = '3.0.5'
+    s.version          = '3.0.6'
     s.summary          = 'UMSPosPayOnly SDK'
     s.description      = 'A unoffical UMSPosPayOnly SDK pod'
     s.homepage         = 'https://github.com/letspod/UMSPosPayOnly'
